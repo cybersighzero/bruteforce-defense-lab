@@ -7,8 +7,8 @@ passwords = [
     "password",
     "admin",
     "iloveyou",
-    "root",
-    "admin123"
+    "admin123",
+    "root"
 ]
 
 for pwd in passwords:
