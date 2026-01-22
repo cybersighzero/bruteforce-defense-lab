@@ -7,6 +7,7 @@ passwords = [
     "password",
     "admin",
     "iloveyou",
+    "root",
     "admin123"
 ]
 
