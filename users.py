@@ -6,4 +6,4 @@ users = {
     }
 }
 
-MAX_ATTEMPTS = 5
+MAX_ATTEMPTS = 4
