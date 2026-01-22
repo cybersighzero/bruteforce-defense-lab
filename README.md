@@ -96,3 +96,10 @@ This project is for educational purposes only.
 It runs on localhost and does not target real systems or accounts.
 
 ---
+
+## Created By
+
+**Pratima Narang**  
+[@cybersighzero](https://github.com/cybersighzero)
+
+Feedback or ideas? Drop an [issue](https://github.com/cybersighzero/WeakSauce/issues) or submit a pull request!
